@@ -1,18 +1,52 @@
-# Salesforce DX Project: Next Steps
+🚀 Salesforce Practice Org – DSA & Problem Solving
+📌 Overview
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+This repository is dedicated to practicing Data Structures & Algorithms (DSA) using Apex.
 
-## How Do You Plan to Deploy Your Changes?
+The goal is to build strong problem-solving skills, improve coding efficiency, and prepare for technical interviews.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+🎯 Objectives
+Strengthen Apex coding skills
+Practice DSA problems regularly
+Improve logical thinking & optimization
+Prepare for product-based company interviews
+Build real-world Salesforce solutions
 
-## Configure Your Salesforce DX Project
+Lets get started... :) 
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+🚀 Apex Class Names (Self-Explanatory)
 
-## Read All About It
+📦 Arrays : 
+R01_ArrayTraversal
+R02_ArrayInsertionDeletion
+R03_ArrayLinearAndBinarySearch
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+📊 Sorting : 
+R04_BubbleSort
+R05_InsertionSort
+R06_SelectionSort
+R07_CountingSort
+R08_QuickSort
+R09_MergeSort
+
+🔗 Linked List :
+
+R10_SinglyLinkedListAllOperations
+R11_DoublyLinkedListAllOperations
+R12_CircularSinglyLinkedList
+R13_CircularDoublyLinkedList
+
+📚 Stack & Queue : 
+R14_StackUsingArrayAndLinkedList
+R15_QueueUsingArrayAndLinkedList
+R16_CircularQueue
+
+🌳 Heap : 
+R17_MaxHeap
+R18_MinHeap
+
+🌲 Trees : 
+R19_BinaryTreeTraversal
+R20_BinarySearchTreeOperations
+R21_PreInPostTraversal
+R22_AVLTree
